@@ -7,4 +7,8 @@ Manejo de diccionarios #2
 
 ![image](https://github.com/user-attachments/assets/a2c77445-e35d-4418-aaf4-9ff4268f7564)
 
+# Practica#2
+![image](https://github.com/user-attachments/assets/cb800f5c-c794-4160-8007-7c4b8b6b34b5)
+![image](https://github.com/user-attachments/assets/cf1091e0-55c5-46d1-abcb-5601b8b19604)
+
 
